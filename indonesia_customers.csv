@@ -1,0 +1,101 @@
+customer_id,city,province,island,age,gender,monthly_income_million_idr,monthly_spending_million_idr,shopping_frequency_per_month,favorite_product_category,shopping_channel,loyalty_score,year_joined,recency_days
+C001,Jakarta,DKI Jakarta,Java,28,Female,8.5,4.2,12,Fashion,Online,85,2020,5
+C002,Surabaya,East Java,Java,35,Male,12.0,3.1,6,Electronics,Online,72,2019,14
+C003,Bandung,West Java,Java,22,Female,4.5,3.8,20,Fashion,Online,91,2021,2
+C004,Medan,North Sumatra,Sumatra,45,Male,15.0,5.5,4,Food & Grocery,Offline,65,2018,30
+C005,Semarang,Central Java,Java,31,Female,7.0,2.9,10,Beauty & Skincare,Online,78,2020,7
+C006,Makassar,South Sulawesi,Sulawesi,27,Male,6.5,1.8,5,Electronics,Online,60,2021,21
+C007,Yogyakarta,Special Region of Yogyakarta,Java,19,Female,2.5,2.1,18,Fashion,Online,88,2022,3
+C008,Palembang,South Sumatra,Sumatra,42,Male,10.0,2.5,3,Food & Grocery,Offline,55,2018,45
+C009,Denpasar,Bali,Bali,33,Female,9.5,5.8,15,Travel & Lifestyle,Online,92,2020,4
+C010,Balikpapan,East Kalimantan,Kalimantan,38,Male,18.5,6.2,5,Electronics,Offline,70,2019,18
+C011,Jakarta,DKI Jakarta,Java,25,Female,6.0,5.1,22,Beauty & Skincare,Online,95,2021,1
+C012,Surabaya,East Java,Java,40,Male,20.0,8.5,4,Electronics,Offline,68,2017,25
+C013,Bandung,West Java,Java,24,Female,5.5,4.5,16,Fashion,Online,87,2021,6
+C014,Jakarta,DKI Jakarta,Java,52,Male,35.0,12.0,3,Finance & Investment,Offline,62,2016,40
+C015,Medan,North Sumatra,Sumatra,29,Female,7.5,3.2,9,Food & Grocery,Online,75,2020,10
+C016,Tangerang,Banten,Java,34,Male,11.0,4.0,7,Electronics,Online,73,2019,16
+C017,Bekasi,West Java,Java,27,Female,6.8,3.9,14,Fashion,Online,82,2021,8
+C018,Depok,West Java,Java,30,Male,9.0,2.8,6,Food & Grocery,Online,69,2020,22
+C019,Bogor,West Java,Java,23,Female,4.0,3.5,19,Fashion,Online,90,2022,3
+C020,Solo,Central Java,Java,48,Male,8.0,2.2,4,Food & Grocery,Offline,58,2018,35
+C021,Malang,East Java,Java,21,Female,3.5,2.8,17,Fashion,Online,86,2022,4
+C022,Pekanbaru,Riau,Sumatra,36,Male,14.0,4.8,5,Electronics,Offline,66,2019,28
+C023,Pontianak,West Kalimantan,Kalimantan,32,Female,7.2,3.1,8,Beauty & Skincare,Online,77,2020,12
+C024,Manado,North Sulawesi,Sulawesi,26,Male,6.0,2.0,6,Food & Grocery,Offline,61,2021,32
+C025,Jakarta,DKI Jakarta,Java,44,Female,28.0,15.0,8,Travel & Lifestyle,Online,94,2018,6
+C026,Surabaya,East Java,Java,31,Male,13.5,5.0,6,Electronics,Online,74,2020,15
+C027,Bandung,West Java,Java,20,Female,3.0,2.5,21,Fashion,Online,89,2022,2
+C028,Jakarta,DKI Jakarta,Java,55,Male,50.0,20.0,2,Finance & Investment,Offline,60,2015,50
+C029,Denpasar,Bali,Bali,29,Female,10.5,6.5,12,Travel & Lifestyle,Online,91,2020,5
+C030,Semarang,Central Java,Java,37,Male,9.5,3.5,7,Food & Grocery,Online,71,2019,19
+C031,Jakarta,DKI Jakarta,Java,26,Female,7.0,5.8,25,Beauty & Skincare,Online,96,2021,1
+C032,Medan,North Sumatra,Sumatra,43,Male,16.5,5.8,4,Electronics,Offline,64,2018,38
+C033,Makassar,South Sulawesi,Sulawesi,28,Female,6.5,3.0,10,Fashion,Online,80,2021,9
+C034,Balikpapan,East Kalimantan,Kalimantan,41,Male,22.0,7.5,4,Electronics,Offline,67,2018,27
+C035,Yogyakarta,Special Region of Yogyakarta,Java,18,Female,2.0,1.8,15,Fashion,Online,84,2023,4
+C036,Tangerang,Banten,Java,33,Male,12.0,4.2,8,Electronics,Online,76,2019,13
+C037,Jakarta,DKI Jakarta,Java,47,Female,32.0,18.0,6,Travel & Lifestyle,Online,93,2017,7
+C038,Surabaya,East Java,Java,24,Female,5.0,4.0,18,Beauty & Skincare,Online,88,2022,3
+C039,Palembang,South Sumatra,Sumatra,39,Male,9.0,2.3,3,Food & Grocery,Offline,56,2019,42
+C040,Bekasi,West Java,Java,29,Female,7.5,4.5,13,Fashion,Online,83,2021,7
+C041,Bandung,West Java,Java,35,Male,11.5,3.8,7,Electronics,Online,72,2020,17
+C042,Jakarta,DKI Jakarta,Java,22,Female,5.5,4.8,20,Beauty & Skincare,Online,94,2022,2
+C043,Semarang,Central Java,Java,50,Male,13.0,3.2,3,Food & Grocery,Offline,59,2017,48
+C044,Denpasar,Bali,Bali,31,Female,11.0,7.0,10,Travel & Lifestyle,Online,90,2020,6
+C045,Malang,East Java,Java,25,Male,6.0,2.5,9,Fashion,Online,79,2021,11
+C046,Solo,Central Java,Java,38,Female,8.5,3.0,6,Food & Grocery,Offline,63,2019,33
+C047,Jakarta,DKI Jakarta,Java,60,Male,65.0,25.0,2,Finance & Investment,Offline,58,2014,55
+C048,Pontianak,West Kalimantan,Kalimantan,27,Female,6.8,2.8,8,Beauty & Skincare,Online,76,2021,14
+C049,Pekanbaru,Riau,Sumatra,34,Male,13.0,4.5,5,Electronics,Offline,65,2019,26
+C050,Bogor,West Java,Java,21,Female,3.8,3.2,16,Fashion,Online,87,2022,5
+C051,Jakarta,DKI Jakarta,Java,29,Female,9.0,6.2,18,Beauty & Skincare,Online,95,2021,2
+C052,Surabaya,East Java,Java,46,Male,17.5,6.0,4,Electronics,Offline,66,2018,32
+C053,Bandung,West Java,Java,23,Female,4.8,4.0,19,Fashion,Online,91,2022,3
+C054,Medan,North Sumatra,Sumatra,37,Male,11.5,3.8,4,Food & Grocery,Offline,63,2019,29
+C055,Jakarta,DKI Jakarta,Java,33,Female,22.0,12.5,7,Travel & Lifestyle,Online,92,2019,8
+C056,Makassar,South Sulawesi,Sulawesi,25,Male,7.0,2.2,6,Electronics,Online,68,2021,20
+C057,Yogyakarta,Special Region of Yogyakarta,Java,20,Female,2.8,2.3,17,Fashion,Online,86,2023,3
+C058,Tangerang,Banten,Java,42,Male,14.5,4.8,5,Electronics,Offline,67,2018,35
+C059,Denpasar,Bali,Bali,36,Female,12.0,7.8,11,Travel & Lifestyle,Online,93,2020,5
+C060,Depok,West Java,Java,28,Male,8.5,3.0,8,Food & Grocery,Online,73,2021,18
+C061,Jakarta,DKI Jakarta,Java,24,Female,6.5,5.5,23,Beauty & Skincare,Online,96,2022,1
+C062,Surabaya,East Java,Java,39,Male,15.0,5.5,5,Electronics,Online,71,2019,16
+C063,Semarang,Central Java,Java,32,Female,8.0,3.5,9,Fashion,Online,81,2020,10
+C064,Medan,North Sumatra,Sumatra,49,Male,14.0,4.5,3,Food & Grocery,Offline,57,2017,44
+C065,Jakarta,DKI Jakarta,Java,41,Female,30.0,16.0,5,Travel & Lifestyle,Online,91,2018,9
+C066,Bandung,West Java,Java,27,Male,7.5,3.2,11,Fashion,Online,82,2021,8
+C067,Balikpapan,East Kalimantan,Kalimantan,35,Female,16.0,5.5,6,Electronics,Offline,69,2019,22
+C068,Malang,East Java,Java,22,Female,4.2,3.6,16,Fashion,Online,88,2022,4
+C069,Bekasi,West Java,Java,36,Male,10.5,3.8,7,Electronics,Online,74,2020,15
+C070,Solo,Central Java,Java,44,Female,9.0,2.8,5,Food & Grocery,Offline,62,2018,38
+C071,Jakarta,DKI Jakarta,Java,31,Female,11.5,7.8,14,Beauty & Skincare,Online,93,2020,4
+C072,Pontianak,West Kalimantan,Kalimantan,30,Male,8.0,3.0,7,Food & Grocery,Online,70,2020,20
+C073,Pekanbaru,Riau,Sumatra,26,Female,7.0,3.5,10,Beauty & Skincare,Online,78,2021,12
+C074,Jakarta,DKI Jakarta,Java,57,Male,48.0,22.0,2,Finance & Investment,Offline,59,2015,52
+C075,Bogor,West Java,Java,20,Female,3.5,3.0,18,Fashion,Online,89,2022,4
+C076,Surabaya,East Java,Java,33,Male,14.0,5.2,6,Electronics,Online,73,2020,14
+C077,Makassar,South Sulawesi,Sulawesi,29,Female,7.5,3.5,10,Fashion,Online,82,2021,9
+C078,Denpasar,Bali,Bali,38,Male,13.5,8.0,9,Travel & Lifestyle,Online,91,2019,7
+C079,Semarang,Central Java,Java,25,Female,5.8,3.0,13,Fashion,Online,84,2022,6
+C080,Tangerang,Banten,Java,40,Male,16.0,5.5,6,Electronics,Offline,68,2018,28
+C081,Jakarta,DKI Jakarta,Java,27,Female,8.0,6.5,21,Beauty & Skincare,Online,95,2021,2
+C082,Bandung,West Java,Java,43,Male,12.0,4.0,5,Electronics,Online,70,2019,24
+C083,Medan,North Sumatra,Sumatra,28,Female,8.5,3.8,9,Beauty & Skincare,Online,80,2021,11
+C084,Yogyakarta,Special Region of Yogyakarta,Java,21,Male,3.2,2.0,14,Fashion,Online,83,2022,5
+C085,Jakarta,DKI Jakarta,Java,38,Female,25.0,14.0,6,Travel & Lifestyle,Online,92,2019,8
+C086,Depok,West Java,Java,32,Male,10.0,3.5,7,Food & Grocery,Online,72,2020,17
+C087,Surabaya,East Java,Java,26,Female,6.5,4.5,15,Beauty & Skincare,Online,87,2022,4
+C088,Malang,East Java,Java,47,Male,11.0,3.2,4,Food & Grocery,Offline,60,2018,40
+C089,Bekasi,West Java,Java,24,Female,6.0,4.8,17,Fashion,Online,89,2022,5
+C090,Solo,Central Java,Java,51,Male,10.0,2.5,3,Food & Grocery,Offline,57,2017,46
+C091,Jakarta,DKI Jakarta,Java,35,Female,18.5,10.5,10,Travel & Lifestyle,Online,91,2020,6
+C092,Balikpapan,East Kalimantan,Kalimantan,44,Male,25.0,8.5,4,Electronics,Offline,66,2018,30
+C093,Pontianak,West Kalimantan,Kalimantan,29,Female,7.5,3.2,9,Beauty & Skincare,Online,77,2021,13
+C094,Pekanbaru,Riau,Sumatra,40,Male,15.0,5.0,5,Electronics,Offline,64,2019,27
+C095,Manado,North Sulawesi,Sulawesi,32,Female,8.0,3.5,7,Food & Grocery,Online,73,2020,16
+C096,Jakarta,DKI Jakarta,Java,62,Male,75.0,30.0,1,Finance & Investment,Offline,55,2013,60
+C097,Bandung,West Java,Java,26,Female,5.2,4.2,18,Fashion,Online,90,2022,4
+C098,Semarang,Central Java,Java,34,Male,10.5,4.0,7,Electronics,Online,74,2020,15
+C099,Denpasar,Bali,Bali,27,Female,9.5,6.0,13,Travel & Lifestyle,Online,93,2021,5
+C100,Medan,North Sumatra,Sumatra,53,Male,18.0,5.5,3,Food & Grocery,Offline,58,2017,43
